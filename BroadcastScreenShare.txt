@@ -1,1 +1,1 @@
-&8&l[&4&l!&8&l]&c If you are using 1.8, please download this &cmod due to a 1.8 Security Risk: &bhttps://github.com/Sk1er/Resource-Exploit-Fix/releases
+&8&l(&4&l!&8&l)&c If you are using 1.8, please download this &cmod due to a 1.8 Security Risk: &bhttps://github.com/Sk1er/Resource-Exploit-Fix/releases
