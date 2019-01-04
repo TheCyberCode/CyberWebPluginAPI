@@ -1,1 +1,1 @@
-&8(&4!&8) &6CyberDevAPI will have a new release in a few days or less, so please be prepared to updated it.
+&8(&4!&8) &6Please let the admins know that CyberDevAPI requires an update in the next few days. [This message will only show to ops, in the next version of the plugin.]
